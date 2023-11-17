@@ -1,4 +1,5 @@
 # /!\ Il faut installer colorama et pytictoc avec pip avant de pouvoir executer le programme
+# You need to install colorama and pytictoc to use -> pip install colorama / pip install pytictoc
 from random import *
 from colorama import *
 from pytictoc import *
