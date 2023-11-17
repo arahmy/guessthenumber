@@ -2,7 +2,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/groupeonyx/guessthenumber">
-    <img src="https://cdn.discordapp.com/attachments/997582981571039344/1175171462848577576/guessthenumber.png?ex=656a42b6&is=6557cdb6&hm=6777543847b12326d5cc25d3d5a2c42aba4d35f4bdfcfa97f539452d25f2016b&" alt="Logo" width="80" height="80">
+    <img src="https://cdn.discordapp.com/attachments/997582981571039344/1175171462848577576/guessthenumber.png?ex=656a42b6&is=6557cdb6&hm=6777543847b12326d5cc25d3d5a2c42aba4d35f4bdfcfa97f539452d25f2016b&" alt="Logo" width="400" height="400">
   </a>
 
   <h3 align="center">Guess The Number - Python</h3>
