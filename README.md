@@ -103,4 +103,4 @@ Distributed under the MIT License. See [LICENSE](https://github.com/groupeonyx/g
 
 ## Authors
 
-* **Polo - Groupe Onyx** - *Spécialité NSI Première* - [Polo - Groupe Onyx](https://github.com/ShaanCoding/) - *Guess The Number*
+* **Polo - Groupe Onyx** - *Spécialité NSI Première* - [Polo - Groupe Onyx](https://github.com/groupeonyx/) - *Guess The Number*
